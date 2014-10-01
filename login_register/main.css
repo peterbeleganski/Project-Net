@@ -1,0 +1,47 @@
+
+body {
+    background-color:#cccccc;
+}
+
+.inputs{
+    margin: 0 auto;
+    display:inline;
+    font-size: 20px;
+    
+   
+}
+
+
+
+input[type="email"]{
+    font-size: 18px;
+    background-color: #ccffcc;
+     margin-left:20px;
+}
+input[type='text']{
+    background-color: #ccffcc;
+    font-size: 18px;
+     margin-left:20px;
+}
+
+input[type='password']{
+     background-color: #ccffcc;
+     font-size: 18px;
+      margin-left:20px;
+}
+input[type="submit"]{
+    font-size: 18px;
+    margin-left:20px;
+    background-color:#0099ff;
+}
+#reg_form {
+    border:5px solid #33ff33 ;
+    width: 330px;
+    background-color: #ffffff;
+    padding: 10px;
+    height:300px;
+}
+a{
+    text-decoration: none;
+    
+}
